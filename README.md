@@ -1,4 +1,4 @@
-# Audio Classification Project
+# Audio Classification Project using MLOps
 
 ## Overview
 
